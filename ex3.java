@@ -1,3 +1,4 @@
+// 作业要求：设计一个接口给歌手打分，实现两种计分模式 ，第一种为求7个评委的平均分，第二种为去掉最高分与最低分后求平均分。7名评委的分数由键盘输入。
 import java.text.DecimalFormat;
 import java.util.*;
 
